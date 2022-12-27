@@ -19,7 +19,7 @@ class HomeController extends Controller
         $ids = [15];
         $nodep = [18, 19, 20, 999];
         $noestados = ['A', 'I', 'Y', 'S', 'D'];
-        $addprogramas = [4, 11, 5, 2, 3, 1];
+        $addprogramas = [4, 11, 5, 2, 3, 1, 17, 18];
         $data = [];
         $datasat = [];
         $error = [];
